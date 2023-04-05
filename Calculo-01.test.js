@@ -1,4 +1,4 @@
-const mdc = require('../exercicio-01');
+const mdc = require('./exercicio-01');
 
 describe('Validação dos resultados do MDC', () => {
     it('calculo correto de valores', () => {
