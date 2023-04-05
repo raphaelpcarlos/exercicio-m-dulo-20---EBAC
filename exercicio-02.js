@@ -5,3 +5,6 @@ var max = Math.max(...arr);
 
 console.log(min); 
 console.log(max);
+
+
+module.exports = { arr, min, max}

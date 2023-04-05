@@ -1,0 +1,22 @@
+{
+    "name": "exercicio",
+    "version": "1.0.0",
+    "description": "",
+    "main": "exercicio-01.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/raphaelpcarlos/exercicio-m-dulo-20---EBAC.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/raphaelpcarlos/exercicio-m-dulo-20---EBAC/issues"
+    },
+    "homepage": "https://github.com/raphaelpcarlos/exercicio-m-dulo-20---EBAC#readme",
+    "dependencies": {
+        "jest": "^29.5.0"
+    }
+}

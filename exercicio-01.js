@@ -8,3 +8,6 @@ function mdc(num1, num2){
 }
 
 console.log(mdc(6, 3));
+
+
+module.exports = mdc;

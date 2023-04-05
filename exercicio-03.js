@@ -9,3 +9,5 @@ function calcular() {
 }
 
 console.log(calcular());
+
+module.exports = calcular
